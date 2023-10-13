@@ -5,6 +5,6 @@
 
 ## About
 
-<p>Este projeto é sobre automação de testes utilizando o cypress, para avaliar lançamentos positivos, negativos e exclusão para o site:
+<p>Este é um projeto do Curso "Cypress direto ao ponto" referente a automação de testes utilizando o cypress, para avaliar lançamentos positivos, negativos, exclusão e verificação de lançamento no site:
 
 https://devfinance-agilizei.netlify.app/</p>
