@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://www.cypress.io/cypress_logo_social.png"/>
+    <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg"/>
     <p>Projeto com cypress</p>
 </h1>
 
